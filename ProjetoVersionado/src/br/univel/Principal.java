@@ -7,6 +7,7 @@ public class Principal {
 		String world = "World";
 		String msg = hello + world + "!";
 		System.out.println(msg);
+		System.out.println("teste");
 	}
 	
 }
